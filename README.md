@@ -2,13 +2,5 @@
 
 Welcome!
 
-## This is a h2
-
-### This is a h3
-
-#### This is a h4
-
-##### This is a h5
-
-###### This is a h6
-
+This is my first Website build with Cloud9.
+I used html, command line interface and git to create ths website.
